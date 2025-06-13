@@ -147,9 +147,11 @@ def readRelationDict(relations : dict):
         print(a)
     
 if __name__ == "__main__":
-    #synonyme("tigre","chasser")
-    #deductionClassique("pigeon","voler")
-    #transitivité("Tour Eiffel", "France",15)
+    print("Synonyme")
+    synonyme("tigre","chasser")
+    print("Deduction")
+    deductionClassique("pigeon","voler")
+    print("Transitivité 1")
+    transitivité("Tour Eiffel", "France",15)
+    print("Transitivité 2")
     transitivité("piston","voiture",10)
-
-    
