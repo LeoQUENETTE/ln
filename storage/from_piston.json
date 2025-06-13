@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 4658,
+            "name": "moteur",
+            "type": 1,
+            "w": 3712
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 16612
+        },
+        {
+            "id": 79324,
+            "name": "cuivres",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 140962,
+            "name": "piston",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 160187,
+            "name": "C4",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 204066,
+            "name": "moteur \u00e0 explosion",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 204071,
+            "name": "moteur thermique",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 215720,
+            "name": "voiture>95706",
+            "type": 1,
+            "w": 959
+        },
+        {
+            "id": 241621,
+            "name": "moteur en \u00e9toile",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 246742,
+            "name": "moteur \u00e0 pistons",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 256309,
+            "name": "essoreuse \u00e0 salade",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 261731,
+            "name": "locomotive>5425",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 365139,
+            "name": "moteur \u00e0 piston",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 696867,
+            "name": "moteur \u00e0 boule chaude",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 8568752,
+            "name": "moteur \u00e0 pistons alternatifs",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15109119,
+            "name": "en:steam locomotive",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15193400,
+            "name": "en:piston motor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15193401,
+            "name": "en:piston engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15207600,
+            "name": "en:salad spinner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15393731,
+            "name": "en:radial engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15402629,
+            "name": "en:brass instruments",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129692300,
+            "name": "Locomotive \u00e0 vapeur",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 143778753,
+            "name": "Moteur en \u00e9toile",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 368938,
+            "node1": 140962,
+            "node2": 4658,
+            "type": 10,
+            "w": 63.0
+        },
+        {
+            "id": 10002899,
+            "node1": 140962,
+            "node2": 6890,
+            "type": 10,
+            "w": 25.0
+        },
+        {
+            "id": 114036548,
+            "node1": 140962,
+            "node2": 79324,
+            "type": 10,
+            "w": 35.0
+        },
+        {
+            "id": 1035549629,
+            "node1": 140962,
+            "node2": 160187,
+            "type": 10,
+            "w": 26.0
+        },
+        {
+            "id": 784250603,
+            "node1": 140962,
+            "node2": 204066,
+            "type": 10,
+            "w": 25.0
+        },
+        {
+            "id": 784250596,
+            "node1": 140962,
+            "node2": 204071,
+            "type": 10,
+            "w": 25.0
+        },
+        {
+            "id": 734632088,
+            "node1": 140962,
+            "node2": 215720,
+            "type": 10,
+            "w": 74.0
+        },
+        {
+            "id": 9994675,
+            "node1": 140962,
+            "node2": 241621,
+            "type": 10,
+            "w": 34.0
+        },
+        {
+            "id": 14699100,
+            "node1": 140962,
+            "node2": 246742,
+            "type": 10,
+            "w": 39.0
+        },
+        {
+            "id": 10001335,
+            "node1": 140962,
+            "node2": 256309,
+            "type": 10,
+            "w": 35.0
+        },
+        {
+            "id": 11117258,
+            "node1": 140962,
+            "node2": 261731,
+            "type": 10,
+            "w": 28.0
+        },
+        {
+            "id": 307603863,
+            "node1": 140962,
+            "node2": 365139,
+            "type": 10,
+            "w": 26.0
+        },
+        {
+            "id": 27799121,
+            "node1": 140962,
+            "node2": 696867,
+            "type": 10,
+            "w": 35.0
+        },
+        {
+            "id": 149284546,
+            "node1": 140962,
+            "node2": 8568752,
+            "type": 10,
+            "w": 30.0
+        },
+        {
+            "id": 547166885,
+            "node1": 140962,
+            "node2": 15109119,
+            "type": 10,
+            "w": 26.0
+        },
+        {
+            "id": 398243441,
+            "node1": 140962,
+            "node2": 15193400,
+            "type": 10,
+            "w": 34.0
+        },
+        {
+            "id": 426578251,
+            "node1": 140962,
+            "node2": 15193401,
+            "type": 10,
+            "w": 30.0
+        },
+        {
+            "id": 397073672,
+            "node1": 140962,
+            "node2": 15207600,
+            "type": 10,
+            "w": 34.0
+        },
+        {
+            "id": 399685927,
+            "node1": 140962,
+            "node2": 15393731,
+            "type": 10,
+            "w": 34.0
+        },
+        {
+            "id": 579933102,
+            "node1": 140962,
+            "node2": 15402629,
+            "type": 10,
+            "w": 26.0
+        },
+        {
+            "id": 548895551,
+            "node1": 140962,
+            "node2": 129692300,
+            "type": 10,
+            "w": 29.0
+        },
+        {
+            "id": 548310852,
+            "node1": 140962,
+            "node2": 143778753,
+            "type": 10,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            10
+        ],
+        "not_types_ids": null,
+        "min_weight": 25,
+        "max_weight": null,
+        "start": "2025-06-13T08:58:33.731417",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "piston",
+        "#relations": 22,
+        "max_relation_weight": 74.0,
+        "#nodes": 23,
+        "duration": "0:00:00.031055"
+    }
+}
